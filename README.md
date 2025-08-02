@@ -1,4 +1,4 @@
-# Multi-Agent-Predator-Prey-Game# Multi-Agent Predator-Prey MARL System
+# Multi-Agent Predator-Prey MARL System
 
 A comprehensive implementation of Multi-Agent Deep Deterministic Policy Gradient (MADDPG) for a predator-prey environment, featuring optional inter-agent communication and comparative analysis.
 
